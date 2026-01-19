@@ -6,25 +6,25 @@ const contactLinks = [
   {
     icon: MessageCircle,
     label: "Discord",
-    value: "username#0000",
+    value: "username@yuuzi8",
     href: "https://discord.com",
   },
   {
     icon: Mail,
     label: "メール",
-    value: "contact@example.com",
+    value: "white.canada.com@gmail.com",
     href: "mailto:contact@example.com",
   },
   {
     icon: Twitter,
     label: "Twitter",
-    value: "@username",
+    value: "@yuuzi888",
     href: "https://twitter.com",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "@username",
+    value: "@yuuzi888",
     href: "https://github.com",
   },
 ];
@@ -41,7 +41,7 @@ export function ContactSection() {
             お問い合わせ
           </h2>
           <p className="text-muted-foreground max-w-lg mx-auto">
-            サーバー運営に関するご相談、コラボレーションのご提案など、
+            サーバー運営に関するご相談、コラボのご提案など、
             お気軽にご連絡ください。
           </p>
         </div>
